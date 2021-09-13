@@ -6,7 +6,7 @@ Author: Carlo Bisda
 qPomodoro is a simple Pomodoro timer that utlizes Windows Voice
 to help study in a more immersive environment.
 
-Dependencies:
+###Dependencies:
 tkinter
 win32com.client
 schedule
@@ -14,5 +14,5 @@ datetime
 time
 os
 
-Compile:
+###Compile:
 I used pyinstaller --onefile qPomodoro.py to compile program for Win 10 x64
